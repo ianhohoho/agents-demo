@@ -1,5 +1,7 @@
 # agents-demo
 
+## Disclaimer
+- These notebooks were originally written by `LangGraph`, but i'm using them to demonstrate some functionalities and talk about their limitations as well.
 
 ## Setting up notebook env
 - `python3.12 -m venv venv`
